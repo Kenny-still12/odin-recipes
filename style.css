@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: white;
+    background-color: rgb(24, 73, 57);
+}
+
+a {
+    font-size: 24px;
+}
+
+.intro{
+    font-size: 24px;
+    font-family: Verdana sans-serif;
+}

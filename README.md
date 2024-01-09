@@ -7,5 +7,9 @@ I will be demonstrating the skill that I learned so far from TOP, which is the H
 ---December 5, 2024---
 Start of website creation.
 
+---December 9, 2024---
+Added some style in it temporarily.
+
 used skills
 - HTML foundations 
+- CSS foundations
