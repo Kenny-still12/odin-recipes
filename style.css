@@ -3,13 +3,32 @@ body {
 }
 
 h1 {
+    text-align: center;
     color: white;
     background-color: rgb(24, 73, 57);
+    padding: 16px;
 }
 
 a {
     font-size: 24px;
 }
+
+.lists {
+    background-color:aquamarine;
+    margin-bottom: 10px;
+    color: #a33a3a;
+    text-align: center;
+    font-size: 16px;
+}
+
+#one,
+#two,
+#three {
+    padding: 8px;
+}
+
+
+
 
 .intro{
     font-size: 24px;
